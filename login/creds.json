@@ -1,0 +1,24 @@
+{
+	"creds": [
+		{
+			"username": "robert",
+			"password_hash": "ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f"
+		},
+		{
+			"username": "mr_slugma",
+			"password_hash": "bd3bb999f88b7ee040977767be2d5cdc1c1e0b4002cf159cc241bca85a38f2cb"
+		},
+		{
+			"username": "beevis",
+			"password_hash": "eba944bc703f6032b8ce1e0f95c2bdb39ee4c6481c8e62c2692f18e319d9710c"
+		},
+		{
+			"username": "wedgelord",
+			"password_hash": "05fe801689cd1c583f8e5cf9bc239d4d4de132d8077612d39be46714804fe9fe"
+		},
+		{
+			"username": "Biggychan",
+			"password_hash": "9cb695dc6d9b97d0909e674a86dbbac4972d97e7d8e15227c81632baec88bd5f"
+		}
+	]
+}
